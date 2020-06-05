@@ -1,0 +1,91 @@
+body {
+  width: 1400px;
+  height: 590px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.header-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 36px;
+  line-height: 26px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 110px;
+}
+
+.header-line {
+  width: 65px;
+  border-bottom: 2px solid #FF8B38;
+  margin: 30px 670px;
+}
+
+.header-subtitle {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  color: #86878B;
+}
+
+main {
+  margin: 80px 145px 100px 145px;
+}
+
+section {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 350px;
+  height: 200px;
+}
+
+.section-lamp {
+  margin-left: 30px;
+  padding-right: 30px;
+}
+
+.section-thunder {
+  padding-left: 30px;
+}
+
+.section-img {
+  box-sizing: border-box;
+  width: 70px;
+  height: 70px;
+  margin: 0 auto;
+  border: 2px solid #FF8B38;
+  border-radius: 50%;
+}
+
+.section-title {
+  margin-top: 30px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  color: #333333;
+}
+
+.section-paragraph {
+  margin-top: 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  color: #86878B;
+}
+
+.lamp {
+  padding: 19px 21px;
+}
+
+.keyboard {
+
+  padding: 21px 14px;
+}
+
+.thunder {
+  width: 20px;
+  height: 31px;
+  padding: 18px 23px;
+}
